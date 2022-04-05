@@ -238,7 +238,7 @@ img, video {
 
 .bg-primary-400 {
     --tw-bg-opacity: 1;
-    background-color: rgba(255,208,41,var(--tw-bg-opacity))
+    background-color: rgba(255,38,38,var(--tw-bg-opacity))
 }
 
 .bg-dark-400 {
@@ -642,7 +642,7 @@ img, video {
 
 .text-primary-400 {
     --tw-text-opacity: 1;
-    color: rgba(255,208,41,var(--tw-text-opacity))
+    color: rgba(255,38,38,var(--tw-text-opacity))
 }
 
 .text-dark-800 {
