@@ -249,6 +249,12 @@
         u = Object(c["a"])(l, s, i, !1, null, "8c1ef6b0", null);
       e["a"] = u.exports;
     },
+    "09e5": function (t, e, a) {},
+    "0bcb": function (t) {
+      t.exports = JSON.parse(
+        '[{"ip":"us-fridays.vitalrust.com:28015","title":"Coming Soon - UnlikeAcorn#7006 | 1","id":13199326,"players":0,"maxPlayers":0},{"ip":"eu-fridays.vitalrust.com:28015","title":"Coming Soon - UnlikeAcorn#7006 | 2","id":12664244,"players":0,"maxPlayers":0},{"ip":"us-thursdays.vitalrust.com:28015","title":"Coming Soon - UnlikeAcorn#7006 | 3","id":10457027,"players":0,"maxPlayers":0},{"ip":"us-10x.vitalrust.com:28035","title":"Coming Soon - UnlikeAcorn#7006 | 4","id":11524475,"players":0,"maxPlayers":0},{"ip":"eu-10x.vitalrust.com:28035","title":"Coming Soon - UnlikeAcorn#7006 | 5","id":12213004,"players":0,"maxPlayers":0},{"ip":"au-10x.vitalrust.com:28035","title":"Coming Soon - UnlikeAcorn#7006 | 6","id":13024310,"players":0,"maxPlayers":0},{"ip":"us-mondays.vitalrust.com:28025","title":"Coming Soon - UnlikeAcorn#7006 | 7","id":9296817,"players":0,"maxPlayers":0},{"ip":"eu-mondays.vitalrust.com:28025","title":"Coming Soon - UnlikeAcorn#7006 | 8","id":9771776,"players":0,"maxPlayers":0}]'
+      );
+    },
     2074: function (t, e, a) {
       t.exports = a.p + "img/wordmark_light.80c64b6a.svg";
     },
