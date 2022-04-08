@@ -27,9 +27,7 @@
                       },
                     ),
                     a("p", { staticClass: "text-primary-400 mt-10" }, [
-                      t._v(
-                        "This site ill be building a website and moving it to another domain then keeping this domain for my personal use. More info on this site in discord below. If you have any questions DM me on discord."
-                      ),
+                      t._v
                     ]),
                     a(
                       "div",
