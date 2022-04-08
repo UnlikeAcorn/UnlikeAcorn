@@ -25,7 +25,6 @@
                         staticClass:
                           "feature-font text-white text-4xl sm:text-6xl md:text-7xl lg:text-8xl",
                       },
-                      [t._v("Coming Soon! by UnlikeAcorn#7006")]
                     ),
                     a("p", { staticClass: "text-primary-400 mt-10" }, [
                       t._v(
