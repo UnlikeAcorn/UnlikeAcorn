@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://unlikeacorn.carrd.co/sitemap.xml
